@@ -14,24 +14,24 @@
 ### Sprint Planning (For Sprint 1-3)
 Document your Sprint Planning here. Also check the kickoff document for more details on what needs to be done. This is just the documentation. 
 
-**Sprint Goal:** Your Sprint goal
+**Sprint Goal:** Our goal for the first Sprint will be to get familiar with memoranda, fix obvious bugs/errors, and prepare it to fit within our gym scheduling software.
 
-**How many User Stories did you add to the Product Backlog:**  Number
+**How many User Stories did you add to the Product Backlog:**  1 is in the backlog.
 
 **How many User Stories did you add to this Sprint:** 
-> Answer the questions below about your Sprint Planning?
+> We have 2 user stories added to this sprint.
 
 **Why did you add these US, why do you think you can get them done in the next Sprint?**
 
-> Your Answer
+> These were based off of the product requirements that we found when choosing our topic.
 
 **Why do you think these fit well with your Sprint goal? (details)**
 
-> Your Answer
+> Yes. One of the objectives in this Sprint goal is to get our code to better fit with the idea of a gym scheduling application, so these tasks should help achieve that.
 
 **Do you have a rough idea what you need to do? (if the answer is no then please let me know on Slack)**
 
-> Your Answer
+> Yes.
 
 
 
